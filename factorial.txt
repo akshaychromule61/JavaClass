@@ -1,0 +1,8 @@
+public static int factor(int n){
+//scanner we can tak from user but function will take blank
+
+int fact = 1;
+for (int i=1;i<=n;i++){
+fact = fact*i;
+return fact;
+}}

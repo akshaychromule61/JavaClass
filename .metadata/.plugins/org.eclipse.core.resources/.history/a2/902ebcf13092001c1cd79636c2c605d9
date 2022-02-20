@@ -1,0 +1,27 @@
+package mypackage;
+
+import java.util.Scanner;
+
+public class Loops {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int n;
+		Scanner obj = new Scanner(System.in);
+		System.out.println("Enter Number");
+	    n=obj.nextInt();
+	    
+	    String result;
+	    
+//	    if(n%2==0) {
+//	    	result = "Even";
+//	    }else {
+//	    	result = "Odd";
+//	    }
+	    result=(n%2==0)?"Even":"Odd";
+	    System.out.println(result);
+		
+
+	}
+
+}

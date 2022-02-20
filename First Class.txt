@@ -1,0 +1,123 @@
+Need to complete section 3
+
+install eclipse - elips downloads-  2021-12
+ecies ie frenteprice java and web developer -second optionns
+
+first project in java
+number system and memory units;-
+4 num systems
+binary 0-1
+octal 0-7, 
+decimal0-9, hexa decimal
+how to covert binary to decimal, decimalto binary
+flopy disk
+in 8 bits store 255 decimal store and 277 octal val
+java online computeryes
+out of8 bits1 bit is used forsignature
+syso ctrl+space shortcut
+
+Why reference type cannot be denoted in small letters?
+what is the sizze of address sir ?how many bytes
+how many bytes address size take?
+what is type casting
+codeblocks to learn C language in college turbo C
+
+perators injava
+how java code executed
+jvac, java- cmiler runtime
+type casting in java
+simple programs using java
+******************************************
+Value Type vs Reference type
+-value data is stored in stack and reference type data is stored in heap
+-value type vriable holds the data and data refrence type variableholdthe address
+-vlue type have fixed size and reference not have fixed size
+-value type : int float double,.. referece type: String
+******************************
+Operators in java
+Arithmetic +-%/
+Relational < > <= >=
+Logical && || 
+Bitwise & ! ^
+Shift >> <<
+Unary
+Assignment
+type casting in java
+
+control structures in java
+1 branching - if, if else, switch case
+2 looping - while loop, do-while,
+
+Functions and Arrays
+OOP concepts in java
+4 pillersof oops concepts
+**********************************
+byte -128 to 127 range
+short 
+int 
+long 
+float 
+double 
+char 
+String 
+boolean 
+*****************************
+Mutable :- if you can change the value of a variable in the same address its called
+value type ar mutable:- int float double all these
+Immutable:- if you can not change the value of a variable in the same address its called
+String
+
+String pooling concept
+
+*******************************
+intsall git in system
+git init - to intilise the folder
+create project n same folder create program
+git add. -add new project in staging
+git commit -m "message" - commit the to your local repository
+
+git status
+  git config --global user.email "akshaychormule61@gmail.com"
+  git config --global user.name "Akshay Chormule"
+
+th main comment to push the chages into guthub
+git orgin---
+git branch -M main
+git push -u origin main
+
+**********************************
+3rd Class 19/02/2021
+*control structure
+ - if
+ - if else
+ - switch
+ - conditional / ternary operators
+   e.g result=(n%2==0)?"even":odd -- conditional operator
+
+Scanner obj = new Scanner(System.in) - take input from USER
+*funtions learned factorial function
+*arrays
+ a2- how to storevalue, retrive value and workwith array
+
+Home work day 3
+   1 WAJP to read 5 numbers from user and print the umber using
+for loop,foreach loop
+   2 WAJAP to read 5 umber from user and find sum and avg?
+   3--- 5 umbers and fid biggest number?
+	
+   4--- 5 number from user and sort them using bubble sort
+
+what is mean by capital punishment?
+
+*OOP
+   4 pillers
+	encapsultion(group of similar funcions &varible in one class), 
+        inheritnce,
+        polymorphism, 
+        Abstraction
+	class group of vriable and method that deal with variable
+UML mens wht?class diagrams UMLi
+
+*encapsulations
+*access modifires
+*constructors
